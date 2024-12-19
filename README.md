@@ -2,29 +2,29 @@
 
 ## Skills Profile
 ### Hard Skills
-Languages:
+* Languages:
     - Python
     - Java
     - C/C++
     - SQL
     - MongoDB
-Tools:
+* Tools:
     - PyMongo
     - Spring Boot
     - Spring Security
-Paradigms:
+* Paradigms:
     - RESTful
     - Object-Oriented Programming
-Development Lifecycles:
+* Development Lifecycles:
     - AGILE
     - Test Driven Development
 ### Soft Skills
-Personal:
+* Personal:
     - Problem-Solving
     - Analysis
     - Open-Mindedness
     - Creativity
-Interpersonal:
+* Interpersonal:
     - Personable
     - Collaboration Mindset
     - Spoken Presentation
