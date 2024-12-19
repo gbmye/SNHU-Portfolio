@@ -3,33 +3,33 @@
 ## Skills Profile
 ### Hard Skills
 Languages:
-    Python
-    Java
-    C/C++
-    SQL
-    MongoDB
+    - Python
+    - Java
+    - C/C++
+    - SQL
+    - MongoDB
 Tools:
-    PyMongo
-    Spring Boot
-    Spring Security
+    - PyMongo
+    - Spring Boot
+    - Spring Security
 Paradigms:
-    RESTful
-    Object-Oriented Programming
+    - RESTful
+    - Object-Oriented Programming
 Development Lifecycles:
-    AGILE
-    Test Driven Development
+    - AGILE
+    - Test Driven Development
 ### Soft Skills
 Personal:
-    Problem-Solving
-    Analysis
-    Open-Mindedness
-    Creativity
+    - Problem-Solving
+    - Analysis
+    - Open-Mindedness
+    - Creativity
 Interpersonal:
-    Personable
-    Collaboration Mindset
-    Spoken Presentation
-    Technical Writing
-    Reading Comprehension
+    - Personable
+    - Collaboration Mindset
+    - Spoken Presentation
+    - Technical Writing
+    - Reading Comprehension
 
 ## Skills Narratives
 ### Fist Project - Software Engineering
