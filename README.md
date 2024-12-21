@@ -5,7 +5,7 @@
 * Languages:
     - Python
     - Java
-    - C/C++
+    - JavaScript
     - SQL
     - MongoDB
 * Tools:
